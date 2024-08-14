@@ -8,7 +8,7 @@
 
 # Hello friends 🖐️
 
-how are you If you want to make the look of your github profile more beautiful, you have come to the right place
+how are you? If you want to make the look of your github profile more beautiful, you have come to the right place!
 
 # 📖 Table of Contents
 
@@ -24,7 +24,7 @@ how are you If you want to make the look of your github profile more beautiful, 
 
 # 📌 The first step : Set up the GitHub Repository
 
-Create a repository with your GitHub username 👇
+Create a repository with your GitHub username. 👇
 
 <br>
 
@@ -40,7 +40,7 @@ Example : 👇
 
     https://github.com/rzashakeri/rzashakeri
 
-### After Create Repository, **Create a README.md** in Repository and Done ✅
+### After Createing a Repository, **Create a README.md** in the Repository and Done ✅
 
 Now that we have built the repository, we come to the interesting part: **designing our README.md.**
 
@@ -48,7 +48,7 @@ Now that we have built the repository, we come to the interesting part: **design
 
 # 💡 Where do we get ideas ?
 
-You must have been asked which profiles to get ideas from? You can see the profile of different people through the site below the gateway profile and get ideas from them 👇
+You must have been asked which profiles to get ideas from? You can see the profile of different people through the site below the gateway profile and get ideas from them. 👇
 
 ### [🔗 Awesome Github Profile ](https://zzetao.github.io/awesome-github-profile/)
 
@@ -60,7 +60,7 @@ Well, so far you have been able to find cool ideas from the profiles of differen
 
 #### 1 . [List of Badges, in Markdown](https://github.com/Naereen/badges)
 
-A list of badges and cards, with their Markdown code, that can be included in a README.md file for a GitHub
+A list of badges and cards, with their Markdown code, that can be included in a README.md file for GitHub.
 
 📍 For example : &nbsp; [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) &nbsp; [![PyPI download day](https://img.shields.io/pypi/dd/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) &nbsp; [![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/network/) &nbsp; [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 
@@ -84,7 +84,7 @@ A badge generator service that counts views on your markdown file.
 
 #### 4 . [shields](https://shields.io/)
 
-Concise, consistent, and legible badges in SVG and raster format and Make tokens with custom values
+Concise, consistent, and legible badges in SVG and raster format and Make tokens with custom values.
 
 📍 For example : &nbsp; <img src="https://img.shields.io/badge/reza-shakeri-%20"/> &nbsp; <img alt="AppVeyor tests badge" src="https://img.shields.io/badge/tests-477%20passed%2C%202%20failed-red"> &nbsp; <img alt="Open VSX Rating (Stars) badge" src="https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen">
 <br/>
@@ -95,7 +95,7 @@ This package will allows you to track Github profile views and display them in y
 
 #### 6 . [Stackoverflow Badge](https://github.com/claytonjhamilton/stackoverflow-badge)
 
-Display your stats with this unique StackOverflow Badge
+Display your stats with this unique StackOverflow Badge.
 
 📍 For example : &nbsp; <img alt="StackOverflow user information" src="https://camo.githubusercontent.com/0e3f8d75dc79e395d7ae8e617ab5b4b8d1e1cbda263347eb9556c4c1edf39004/68747470733a2f2f737461636b6f766572666c6f772d62616467652e6865726f6b756170702e636f6d2f6170692f537461636b4f766572666c6f7742616467652f3134313232333735" data-canonical-src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375" style="max-width: 100%;">
 <br/>
@@ -111,7 +111,7 @@ Youtube stats badges for your Github profile README. Displays the total number o
 
 #### 8 . [ Badges for GitHub](https://github.com/Envoy-VC/Badges-for-GitHub)
 
-A Curated list of Badges used in GitHub
+A Curated list of Badges used in GitHub.
 <br/>
 <br/>
 📍 For example : &nbsp; <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -131,8 +131,7 @@ Improve your README.md profile with these amazing badges.
 
 #### 10 . [Gitwar](https://github.com/iampavangandhi/Gitwar)
 
-Gitwar - Compete with Github Check your Github Score. Based on -
-Your Public Repos , Stars on Public Repos , Forks on Public Repos , Github Followers ,Joined Github Organisations ...
+Check your Github Score.
 
 📍 For example :
 <br/>
@@ -155,7 +154,7 @@ It counts how many times your GitHub profile has been viewed. Free cloud micro-s
 
 #### 12 . [ColoredBadges](https://github.com/MikeCodesDotNET/ColoredBadges)
 
-Some badges I created for my GitHub profile readme.
+Some badges that MikeCodesDotNET created for their GitHub profile readme.
 
 📍 For example :
 <br/>
@@ -193,7 +192,7 @@ Do you use Grunt in a project and want to proudly display that in your project R
 
 #### 16 . [semaphoreci Status Badges](https://docs.semaphoreci.com/essentials/status-badges/)
 
-create a badge that displays your project's current build status. The build status is determined by the status of the first pipeline in your newest workflow. You can use this badge in your project's README file or any web page.
+Create a badge that displays your project's current build status. The build status is determined by the status of the first pipeline in your newest workflow. You can use this badge in your project's README file or any web page.
 
 📍 For example :
 
@@ -201,7 +200,7 @@ create a badge that displays your project's current build status. The build stat
 
 #### 17 . [Aoc Badges Action](https://github.com/J0B10/aoc-badges-action)
 
-Github Action to update the badges of your Readme to show your current Advent of Code stats
+Github Action to update the badges of your Readme to show your current Advent of Code stats.
 
 📍 For example :
 
@@ -233,7 +232,7 @@ Awesome Simple Icons on your favorite Shields.io Badges. Try out on your profile
 
 #### 21 . [GitHub Profile Badges](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 
-Clean badges for your GitHub Profile Readme
+Clean badges for your GitHub Profile Readme.
 
 📍 For example :
 
@@ -242,7 +241,7 @@ Clean badges for your GitHub Profile Readme
 
 #### 22 . [Custom Icon Badges](https://github.com/DenverCoder1/custom-icon-badges)
 
-Allows users to more easily use Octicons and their own icons and logos in shields.io badges
+Allows users to more easily use Octicons and their own icons and logos in shields.io badges.
 
 📍 For example :
 
@@ -255,7 +254,7 @@ Allows users to more easily use Octicons and their own icons and logos in shield
 
 #### 23 . [pepy](https://github.com/psincraian/pepy)
 
-pepy is a site to get statistics information about any Python package
+pepy is a site to get statistics information about any Python package.
 
 📍 For example :
 
@@ -287,7 +286,7 @@ Once the package owner adds this badge to their README file, it will inform and 
 
 #### 27 . [gradient badge](https://github.com/bokub/gradient-badge)
 
-🍭 Badge generator with color gradient support
+🍭 Badge generator with color gradient support.
 
 📍 For example :
 
